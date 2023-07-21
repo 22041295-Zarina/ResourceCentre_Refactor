@@ -49,7 +49,7 @@ public class ResourceCentre {
 				}
 
 			} else if (option == 3) {
-				// Loan item
+				// Loan items
 				ResourceCentre.setHeader("LOAN");			
 				ItemTypeMenu();
 				
