@@ -23,7 +23,7 @@ public class Item {
 		return itemInfo;
 	}
 	private Object showAvailability(boolean isAvailable2) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubs
 		return null;
 	}
 	public String getAssetTag() {
